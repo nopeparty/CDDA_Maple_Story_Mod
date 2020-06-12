@@ -1,0 +1,9 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "maplestory",
+    "friendly": [ "animal", "fish", "zombie", "blob", "cult", "nether", "zombie_aquatic", "jabberwock", "bot", "spider", "plant" ],
+    "neutral": [ "human", "player" ],
+    "by_mood": [  ]
+  }
+]

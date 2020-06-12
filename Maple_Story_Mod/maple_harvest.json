@@ -1,0 +1,42 @@
+[
+  {
+    "id": "maple_stump",
+    "type": "harvest",
+    "entries": [
+      { "drop": "log", "type": "bone", "mass_ratio": 0.35 },
+      { "drop": "log", "type": "flesh", "mass_ratio": 0.2 },
+      { "drop": "stick", "type": "offal", "mass_ratio": 0.05 }
+    ]
+  },
+  {
+    "id": "maple_omushroom",
+    "type": "harvest",
+    "entries": [
+      { "drop": "veggy", "base_num": [ 6, 10 ], "scale_num": [ 0.6, 0.8 ], "max": 20, "type": "flesh" },
+      { "drop": "veggy_tainted", "base_num": [ 16, 25 ], "scale_num": [ 0.6, 0.8 ], "max": 50, "type": "flesh" },
+      { "drop": "stick_fiber", "base_num": [ 4, 8 ], "scale_num": [ 0.5, 0.7 ], "max": 10, "type": "bone" }
+    ]
+  },
+  {
+    "id": "maple_octopus",
+    "//": "for those mollusk that don't have something you can skin off of them",
+    "type": "harvest",
+    "entries": [
+      { "drop": "meat", "type": "flesh", "mass_ratio": 0.3 },
+      { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.03 },
+      { "drop": "liver", "type": "offal", "mass_ratio": 0.01 },
+      { "drop": "brain", "type": "flesh", "mass_ratio": 0.005 },
+      { "drop": "kidney", "type": "offal", "mass_ratio": 0.002 },
+      { "drop": "stomach", "scale_num": [ 1, 1 ], "max": 1, "type": "offal" },
+      { "drop": "fat", "type": "flesh", "mass_ratio": 0.07 }
+    ]
+  },
+  {
+    "id": "maple_gmushroom",
+    "type": "harvest",
+    "entries": [
+      { "drop": "veggy_tainted", "base_num": [ 16, 25 ], "scale_num": [ 0.6, 0.8 ], "max": 50, "type": "flesh" },
+      { "drop": "stick_fiber", "base_num": [ 4, 8 ], "scale_num": [ 0.5, 0.7 ], "max": 10, "type": "bone" }
+    ]
+  }
+]

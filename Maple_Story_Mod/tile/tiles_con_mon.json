@@ -1,0 +1,52 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "MX+(Overhaul)", "MshockXottoplus12" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/maple_64x80.png",
+      "sprite_width":64,
+      "sprite_height":80,
+      "sprite_offset_x":-16,
+      "sprite_offset_y":-48,
+      "tiles": 
+      [
+        { "id": "mon_maple_stump",   "fg": 0},
+		{
+          "id": "corpse_mon_maple_stump",
+          "fg": 1,
+          "rotates": false
+        },
+		{ "id": "mon_maple_axestump",   "fg": 2},
+		{
+          "id": "corpse_mon_maple_axestump",
+          "fg": 3,
+          "rotates": false
+        },
+		{ "id": "mon_maple_omushroom",   "fg": 4},
+		{
+          "id": "corpse_mon_maple_omushroom",
+          "fg": 5,
+          "rotates": false
+        },
+		{ "id": "mon_maple_octopus",   "fg": 6},
+		{
+          "id": "corpse_mon_maple_octopus",
+          "fg": 7,
+          "rotates": false
+        },
+		{ "id": "mon_maple_gmushroom",   "fg": 8},
+		{
+          "id": "corpse_mon_maple_gmushroom",
+          "fg": 9,
+          "rotates": false
+        }
+      ]
+    }
+  ]
+}

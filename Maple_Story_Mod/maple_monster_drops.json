@@ -1,0 +1,11 @@
+[
+  {
+    "type" : "item_group",
+    "subtype": "collection",
+    "comment": "Axe stump drops",
+    "id": "axestump_drops",
+    "entries":[
+      { "item": "ax", "damage": [0, 3], "prob": 95}
+    ]    
+  }
+]

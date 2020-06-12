@@ -1,0 +1,54 @@
+[
+ {
+    "type": "monstergroup",
+    "name": "GROUP_ZOMBIE",
+	"//": "zombies highest freq : 75",
+    "default": "mon_null",
+    "monsters": [
+      { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+    ]
+  },
+ {
+    "type":"monstergroup",
+    "name" : "GROUP_ZOMBIE",
+	"//": "zombies highest freq : 75",
+    "default" : "mon_zombie",
+    "monsters" : [
+      { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+                 ]
+  }
+   ,{
+    "type":"monstergroup",
+    "name" : "GROUP_VANILLA",
+	"//": "zombies highest freq : 266",
+    "default" : "mon_zombie",
+    "monsters" : [
+            { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+			{ "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+			{ "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+    ]
+  }
+  ,{
+    "type":"monstergroup",
+    "name" : "GROUP_ZOMBIE_MID",
+	"//": "zombies highest freq : 75",
+    "default" : "mon_zombie_tough",
+    "monsters" : [
+      { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+    ]
+  }
+]
