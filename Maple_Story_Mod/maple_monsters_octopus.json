@@ -1,0 +1,43 @@
+[
+  {
+    "id": "mon_maple_octopus",
+    "type": "MONSTER",
+    "name": "Octopus",
+    "description": "A octupus from Maple Story.",
+	"default_faction": "blob",
+    "categories": [ "CLASSIC", "NULL", "WILDLIFE" ],
+    "size": "MEDIUM",
+    "hp": 25,
+	"diff":2,
+    "speed": 55,
+    "material": [ "flesh" ],
+    "symbol": "O",
+    "color": "pink",
+	"aggression": 3,
+    "morale": 100,
+    "melee_skill": 1,
+    "melee_dice": 4,
+    "melee_dice_sides": 4,
+    "melee_bash": 4,
+    "armor_bash": 1,
+    "armor_cut": 1,
+    "vision_night": 5,
+    "dodge": 0,
+	"harvest":"maple_octopus",
+    "path_settings": { "max_dist": 10 },
+	"regen_morale":true,
+	"anger_triggers":[ "HURT" ],
+	"special_attacks": [  ],
+    "death_drops": { "subtype": "collection", "groups": [  ] },
+    "death_function": [ "NORMAL" ],
+    "flags": [
+	  "ATTACKMON",
+	  "SEES",
+	  "STUMBLES",
+      "WARM",
+      "SWIMS",
+      "BLEED",
+      "PUSH_MON"
+    ]
+  }
+]

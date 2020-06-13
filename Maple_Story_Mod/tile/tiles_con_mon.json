@@ -45,6 +45,50 @@
           "id": "corpse_mon_maple_gmushroom",
           "fg": 9,
           "rotates": false
+        },
+		{ "id": "mon_maple_slime",   "fg": 10},
+		{ "id": "mon_maple_bubbling",   "fg": 11},
+		{ "id": "mon_maple_pig",   "fg": 12},
+		{
+          "id": "corpse_mon_maple_pig",
+          "fg": 13,
+          "rotates": false
+        },
+		{ "id": "mon_maple_ribbonpig",   "fg": 14},
+		{
+          "id": "corpse_mon_maple_ribbonpig",
+          "fg": 15,
+          "rotates": false
+        },
+		{ "id": "mon_maple_hmushroom",   "fg": 16},
+		{
+          "id": "corpse_mon_maple_hmushroom",
+          "fg": 17,
+          "rotates": false
+        },
+		{ "id": "mon_maple_zmushroom",   "fg": 18},
+		{
+          "id": "corpse_mon_maple_zmushroom",
+          "fg": 19,
+          "rotates": false
+        },
+		{ "id": "mon_maple_evileye",   "fg": 20},
+		{
+          "id": "corpse_mon_maple_evileye",
+          "fg": 21,
+          "rotates": false
+        },
+		{ "id": "mon_maple_ironhog",   "fg": 22},
+		{
+          "id": "corpse_mon_maple_ironhog",
+          "fg": 23,
+          "rotates": false
+        },
+		{ "id": "mon_maple_croco",   "fg": 24},
+		{
+          "id": "corpse_mon_maple_croco",
+          "fg": 25,
+          "rotates": false
         }
       ]
     }
