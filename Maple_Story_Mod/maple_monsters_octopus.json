@@ -11,7 +11,7 @@
 	"diff":2,
     "speed": 55,
     "material": [ "flesh" ],
-    "symbol": "O",
+    "symbol": "o",
     "color": "pink",
 	"aggression": 3,
     "morale": 100,
@@ -27,7 +27,7 @@
     "path_settings": { "max_dist": 10 },
 	"regen_morale":true,
 	"anger_triggers":[ "HURT", "PLAYER_CLOSE" ],
-	"special_attacks": [  ],
+	"special_attacks": [ [ "TENTACLE", 5 ] ],
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "NORMAL" ],
     "flags": [
