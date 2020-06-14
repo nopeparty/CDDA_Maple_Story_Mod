@@ -95,6 +95,12 @@
           "id": "corpse_mon_maple_curseeye",
           "fg": 27,
           "rotates": false
+        },
+		{ "id": "mon_maple_ligator",   "fg": 28},
+		{
+          "id": "corpse_mon_maple_ligator",
+          "fg": 29,
+          "rotates": false
         }
       ]
     }
