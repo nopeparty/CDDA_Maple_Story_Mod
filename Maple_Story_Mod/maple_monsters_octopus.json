@@ -4,7 +4,7 @@
     "type": "MONSTER",
     "name": "Octopus",
     "description": "A octupus from Maple Story.",
-	"default_faction": "blob",
+	"default_faction": "mutant",
     "categories": [ "CLASSIC", "NULL", "WILDLIFE" ],
     "size": "MEDIUM",
     "hp": 25,
