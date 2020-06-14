@@ -30,7 +30,7 @@
 	"regen_morale":true,
 	"anger_triggers":[ "HURT", "PLAYER_CLOSE" ],
     "placate_triggers": [ "MEAT" ],
-	"special_attacks": [ { "type": "leap", "cooldown": 5, "max_range": 1 }, [ "EAT_FOOD", 20 ] ],
+	"special_attacks": [ { "type": "leap", "cooldown": 5, "max_range": 1 } ],
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "NORMAL" ],
     "flags": [
@@ -76,7 +76,7 @@
 	"regen_morale":true,
 	"anger_triggers":[ "HURT", "PLAYER_CLOSE" ],
     "placate_triggers": [ "MEAT" ],
-	"special_attacks": [ { "type": "leap", "cooldown": 5, "max_range": 1 }, [ "EAT_FOOD", 20 ] ],
+	"special_attacks": [ { "type": "leap", "cooldown": 5, "max_range": 1 } ],
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "NORMAL" ],
     "flags": [
@@ -122,7 +122,7 @@
 	"regen_morale":true,
 	"anger_triggers":[ "HURT", "PLAYER_CLOSE" ],
     "placate_triggers": [ "MEAT" ],
-	"special_attacks": [ { "type": "leap", "cooldown": 5, "max_range": 1 }, [ "EAT_FOOD", 20 ] ],
+	"special_attacks": [ { "type": "leap", "cooldown": 5, "max_range": 1 } ],
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "NORMAL" ],
     "flags": [
