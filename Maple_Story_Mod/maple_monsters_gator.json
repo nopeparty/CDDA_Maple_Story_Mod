@@ -8,7 +8,7 @@
     "categories": [ "CLASSIC", "NULL", "WILDLIFE" ],
     "species": [ "MAMMAL" ],
     "size": "MEDIUM",
-    "hp": 1056,
+    "hp": 105,
 	"diff":2,
     "speed": 70,
     "material": [ "flesh" ],

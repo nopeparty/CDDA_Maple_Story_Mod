@@ -4,8 +4,8 @@
     "name": "GROUP_CAVE",
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_maple_hmushroom", "freq": 90, "cost_multiplier": 0, "pack_size": [1,3] },
-	  { "monster": "mon_maple_zmushroom", "freq": 40, "cost_multiplier": 0, "pack_size": [1,3] },
+      { "monster": "mon_maple_hmushroom", "freq": 90, "cost_multiplier": 0, "pack_size": [2,3] },
+	  { "monster": "mon_maple_zmushroom", "freq": 40, "cost_multiplier": 0, "pack_size": [2,3] },
       { "monster": "mon_maple_evileye", "freq": 40, "cost_multiplier": 0, "pack_size": [3,5] }
     ]
   },
@@ -14,7 +14,7 @@
     "name": "GROUP_FOREST",
     "default": "mon_null",
     "monsters": [
-      { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+      { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
 	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
 	  { "monster" : "mon_maple_slime", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
 	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
@@ -28,7 +28,7 @@
     "name": "GROUP_ANT",
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_maple_hmushroom", "freq": 90, "cost_multiplier": 0, "pack_size": [1,3] },
+      { "monster": "mon_maple_hmushroom", "freq": 90, "cost_multiplier": 0, "pack_size": [2,3] },
       { "monster": "mon_maple_zmushroom", "freq": 40, "cost_multiplier": 0, "pack_size": [1,3] },
       { "monster": "mon_maple_evileye", "freq": 40, "cost_multiplier": 0, "pack_size": [3,5] }
     ]
@@ -41,9 +41,9 @@
     "monsters": [
       { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
 	  { "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   },
  {
@@ -54,9 +54,9 @@
     "monsters" : [
             { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
 			{ "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-			{ "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+			{ "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -64,7 +64,7 @@
     "name": "GROUP_DOMESTIC",
 	"default" : "mon_null",
     "monsters": [
-	  { "monster" : "mon_maple_pig", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
+	  { "monster" : "mon_maple_pig", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
 	  { "monster" : "mon_maple_ribbonpig", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
     ]
   }
@@ -76,9 +76,9 @@
     "monsters" : [
       { "monster" : "mon_maple_stump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
 	  { "monster" : "mon_maple_axestump", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] },
-	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [1,3] }
+	  { "monster" : "mon_maple_omushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_maple_octopus", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,3] },
+	  { "monster" : "mon_maple_gmushroom", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -86,7 +86,7 @@
     "name": "GROUP_CHUD",
     "default": "mon_null",
     "monsters": [
-      { "monster": "mon_maple_bubbling", "freq": 40, "cost_multiplier": 0, "pack_size": [1,3] }
+      { "monster": "mon_maple_bubbling", "freq": 40, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -95,7 +95,7 @@
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
-	  { "monster": "mon_maple_bubbling", "freq": 40, "cost_multiplier": 0, "pack_size": [1,3] }
+	  { "monster": "mon_maple_bubbling", "freq": 40, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
