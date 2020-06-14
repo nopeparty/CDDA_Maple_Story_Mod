@@ -89,6 +89,12 @@
           "id": "corpse_mon_maple_croco",
           "fg": 25,
           "rotates": false
+        },
+		{ "id": "mon_maple_curseeye",   "fg": 26},
+		{
+          "id": "corpse_mon_maple_curseeye",
+          "fg": 27,
+          "rotates": false
         }
       ]
     }
